@@ -50,6 +50,5 @@ I'm open to collaboration, feedback, and inspiration. Let's connect:
 
 📧 Email: pecinka.tomas@seznam.cz  
 🌐 Website: *coming soon*  
-🐱 GitHub: [@developer25tom](https://github.com/developer25tom)
-
+🐱  GitHub: @csharpbytom
 Thanks for stopping by! 🚀
